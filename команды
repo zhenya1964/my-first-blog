@@ -1,0 +1,29 @@
+python manage.py runserver
+
+python manage.py migrate
+
+http://127.0.0.1:8000/
+
+source phonvenv/bin/activate
+
+python manage.py makemigrations blog
+
+pwd твоя директория
+
+sudo fuser -k 8000/tcp  очищает порт
+
+git init
+Initialized empty Git repository
+
+ git config --global user.name "sizov"
+git config --global user.email sizovzhenya1964@yandex.ru    регистрация
+
+
+
+
+
+
+
+
+
+
